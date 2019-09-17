@@ -3,7 +3,9 @@
 }
 
 .clickhere{
-
+    display:block;
+    width:100%;
+    text-align:right;
 }
 
 .footer{
@@ -26,6 +28,46 @@
 
 }
 
+#indextext{
+
+}
+
 #contact2{
+
+}
+
+#closearchie{
+
+}
+
+#archietext{
+
+}
+
+#icecream{
+
+}
+
+#creamtext{
+
+}
+
+#dogonly{
+
+}
+
+#dogtext{
+
+}
+
+#google{ 
+
+}
+
+#googletext{ 
+
+}
+
+#run{ 
 
 }
